@@ -1,4 +1,17 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mateusz Grochociński"
 theme = "hyde-hyde"
+
+[Menus]
+  main = [
+      {Name = "Odnośnik", URL = "https://www.linkedin.com/in/mateusz-grochocinski/"}
+  ]
+
+[params]
+  description = "Z komputerami oraz technologią informacyjną jestem związany od zawsze."
+
+[params.social]
+	facebook = "Grochocinski.Mateusz"
+	github = "themonsterninja"
+    gravatar = "mateusz.grochocinski2003@gmail.com"
